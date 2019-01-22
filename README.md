@@ -1,3 +1,11 @@
-# hello-world
-hi gay!
-afeng here,hahaha
+# git pull
+
+# git add
+
+# git status
+
+# git commit 
+
+# git push
+
+
